@@ -1,6 +1,7 @@
 # Image-Classification
 All the code and data used for training and testing purpose are compressed and uploaded in the github in the name of Image.zip
 The Training ,Validation and testing data can be found the Image.zip .
+The validation data consist of 30 images with equal number of images taken from each class from the training data.
 
 1: The python file image.py is the python File which on executing will train our CNN model and will save the model for further use.While executing make sure you give the Ccorrect path of the training and validation datas. This python file trains the CNN model taking the Training data with 25 epochs.The CNN model has 3 Convolution layer and 2 Fully connected layer .
 
